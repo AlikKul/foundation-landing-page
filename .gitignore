@@ -1,0 +1,5 @@
+/node_modules
+/Sketch_Resource
+
+*.json
+*.js
